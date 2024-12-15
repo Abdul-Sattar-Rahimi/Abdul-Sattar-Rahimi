@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdulsattareth" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsattareth?logo=twitter&style=for-the-badge" alt="abdulsattareth" /></a> </p>
 
-- 🌱 I’m currently learning **.net**
-
 - 👨‍💻 my teacher [mohammadbtc100](https://github.com/mohammadbtc100)
+
+- 🌱 I’m currently learning **.net**
 
 - 💬 Ask me about **.net**
 
