@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **.net**
 
-<a href="/lottie-animation/python-logo-12050886" target="self" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="" type="video/mp4" autoplay="autoplay" loop="loop"></video></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
+<a href="/lottie-animation/python-logo-12050886" target="self" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="" type="video/mp4" autoplay="autoplay" loop="loop"></video></a>
 
 
 
