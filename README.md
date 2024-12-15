@@ -19,22 +19,7 @@
 <p align="left">
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" height="50px" style="animation: shake 0.5s infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" style="animation: shake 0.6s infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" style="animation: shake 0.7s infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" style="animation: shake 0.8s infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" height="50px" style="animation: shake 0.9s infinite;">
-</div>
 
-<style>
-@keyframes shake {
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(-5deg); }
-  50% { transform: rotate(5deg); }
-  75% { transform: rotate(-5deg); }
-}
-</style>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-sattar-rahimi&show_icons=true&locale=en&layout=compact" alt="abdul-sattar-rahimi" /></p>
