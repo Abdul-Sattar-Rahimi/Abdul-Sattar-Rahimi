@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Sattar Rahimi</h1>
+<h1 align="center">Hi 👋, I'm AbdulSattar Rahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 205px; margin: 0px; width: 364px;" alt="fbc6f31bd3b84159470b973aca7e0f97.gif 1,920 × 1,080 pixels in 2024 | Cool  pixel art, Pixel animation, Pixel art background" jsname="kn3ccd">
