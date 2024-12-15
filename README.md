@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.net**
 
-  <a href="/lottie-animation/python-9077975" target="self" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/python-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--coding-software-development-environment-web-pack-sign-symbols-animations-7440065.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video></a>
+<a href="/lottie-animation/python-logo-12050886" target="self" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="" type="video/mp4" autoplay="autoplay" loop="loop"></video></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
