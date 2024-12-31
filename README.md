@@ -6,8 +6,7 @@
 
 <img jsname="R5Zsfb" class="TWO2xe" src="https://www.google.com/logos/fnbx/new_years/icon_idle_2021.gif" alt="" data-csiid="QndzZ__8G_Dxi-gP1bLn0Ao_9" data-atf="1" style="transition: opacity 0.25s ease 0s; opacity: 1;" data-ilt="1735620443954">
 <div jsname="A3zsDe" aria-hidden="true" role="button" tabindex="-1" jsaction="h5M12e" style="cursor: pointer;"><img jsname="FPzVCf" class="TWO2xe" src="https://www.google.com/logos/fnbx/new_years/icon_popped_2021.png" alt="" data-csiid="QndzZ__8G_Dxi-gP1bLn0Ao_8" data-atf="1"><img jsname="R5Zsfb" class="TWO2xe" src="https://www.google.com/logos/fnbx/new_years/icon_idle_2021.gif" alt="" data-csiid="QndzZ__8G_Dxi-gP1bLn0Ao_9" data-atf="1" style="transition: opacity 0.25s ease 0s; opacity: 1;" data-ilt="1735620632141"></div>
-<div jscontroller="oDwQ5" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwj_pYf0mdGKAxXw-AIHHVXZGaoQnoIHegQILRAB"><div jsname="A3zsDe" aria-hidden="true" role="button" tabindex="-1" jsaction="h5M12e" style="cursor: pointer;"><img jsname="FPzVCf" class="TWO2xe" src="https://www.google.com/logos/fnbx/new_years/icon_popped_2021.png" alt="" data-csiid="QndzZ__8G_Dxi-gP1bLn0Ao_8" data-atf="1"><img jsname="R5Zsfb" class="TWO2xe" src="https://www.google.com/logos/fnbx/new_years/icon_idle_2021.gif" alt="" data-csiid="QndzZ__8G_Dxi-gP1bLn0Ao_9" data-atf="1" style="transition: opacity 0.25s ease 0s; opacity: 1;" data-ilt="1735620632141"></div></div>
-<div jsname="YZTuq" style="display:none" data-ved="2ahUKEwj_pYf0mdGKAxXw-AIHHVXZGaoQ8LcHegQILRAC"></div>
+
 
 
 
