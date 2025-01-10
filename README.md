@@ -42,6 +42,12 @@
 
 
 
+
+<img width="300" src="https://camo.githubusercontent.com/5d4b4db127a7f082771f8cd6ad72330f58c9dad2f53d41ff908790a6d10975a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626164726e657a686164266c616e67735f636f756e743d3130267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;">
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-sattar-rahimi&show_icons=true&locale=en&layout=compact" alt="abdul-sattar-rahimi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-sattar-rahimi&show_icons=true&locale=en" alt="abdul-sattar-rahimi" /></p>
