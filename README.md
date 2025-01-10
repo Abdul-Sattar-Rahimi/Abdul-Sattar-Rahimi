@@ -18,7 +18,7 @@
             display: block;
             width: 100%;
             height: 100%;
-            object-fit: cover; /* پر کردن صفحه بدون تغییر نسبت ابعاد */
+            object-fit: cover;
         }
     </style>
 </head>
