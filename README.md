@@ -17,7 +17,6 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 205px; margin: 0px; width: 364px;" alt="fbc6f31bd3b84159470b973aca7e0f97.gif 1,920 × 1,080 pixels in 2024 | Cool  pixel art, Pixel animation, Pixel art background" jsname="kn3ccd">
 
 <img src="https://camo.githubusercontent.com/bce35a573e0dc8c4a75c3017272a722a11a2e4a45dcaa08510a42f47bbfb1d07/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor" data-canonical-src="https://img.shields.io/static/v1?label=Sponsor&amp;message=%E2%9D%A4&amp;logo=GitHub&amp;color=ff69b4" style="max-width: 100%;">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-sattar-rahimi&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-sattar-rahimi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-sattar-rahimi" alt="abdul-sattar-rahimi" /></a> </p>
