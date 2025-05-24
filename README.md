@@ -23,6 +23,10 @@
 
 <p align="left"> <a href="https://twitter.com/abdulsattareth" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsattareth?logo=twitter&style=for-the-badge" alt="abdulsattareth" /></a> </p>
 
+- 👨‍🏫 my teacher name
+- Mohammad Ahmadzadeh
+- Mohammad Jafar Abad
+
 - 👨‍💻 my teacher [mohammadbtc100](https://github.com/mohammadbtc100)
 
 - 🌱 I’m currently learning **.net**
