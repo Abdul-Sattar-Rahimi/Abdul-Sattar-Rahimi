@@ -24,8 +24,8 @@
 <p align="left"> <a href="https://twitter.com/abdulsattareth" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsattareth?logo=twitter&style=for-the-badge" alt="abdulsattareth" /></a> </p>
 
 - 👨‍🏫 my teacher name
- Mohammad Ahmadzadeh
- Mohammad Jafar Abad
+<h3> Mohammad Ahmadzadeh</h3>
+<h3> Mohammad Jafar Abad</h3>
 
 
 
