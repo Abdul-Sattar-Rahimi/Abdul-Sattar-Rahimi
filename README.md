@@ -19,7 +19,7 @@
 <img src="https://camo.githubusercontent.com/bce35a573e0dc8c4a75c3017272a722a11a2e4a45dcaa08510a42f47bbfb1d07/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor" data-canonical-src="https://img.shields.io/static/v1?label=Sponsor&amp;message=%E2%9D%A4&amp;logo=GitHub&amp;color=ff69b4" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-sattar-rahimi&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-sattar-rahimi" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Sattar-Rahimi&theme=onedark)](https://github.com/Abdul-Sattar-Rahimi/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/abdulsattareth" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsattareth?logo=twitter&style=for-the-badge" alt="abdulsattareth" /></a> </p>
 
@@ -31,7 +31,9 @@
 <h3> </h3>
 <h3> </h3>
 <h3> </h3>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 - 👨‍💻 GitHub my teacher [mohammadbtc100](https://github.com/mohammadbtc100)
 
 - 🌱 I’m currently learning **.net**
