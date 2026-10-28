@@ -38,7 +38,7 @@
 <h3> </h3>
 <h3> </h3>
 
-- 👨‍💻 GitHub my teacher [mohammadbtc100](https://github.com/mohammadbtc100)
+- 👨‍💻 GitHub my teacher [Mohammad Ahmadzadeh](https://github.com/mohammad-ahmadzadeh)
 
 - 🌱 I’m currently learning **.net**
 
