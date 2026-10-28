@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulsattareth" target="blank"><img src="https://img.shields.io/twitter/follow/abdulsattareth?logo=twitter&style=for-the-badge" alt="abdulsattareth" /></a> </p>
 
-- 👨‍🏫 my teacher name :
+- 👨‍🏫 The Names of my Teachers :
 <h5> Mohammad Abbas Zadeh</h5>
 <h5> Rahmat Allah Zakari</h5>
 <h5> Mohammad Ahmadzadeh</h5>
